@@ -1111,8 +1111,9 @@ font-weight: 500;
       margin-left: -40px;
 }
 
-
-
+.blank_section{
+  padding: 1rem 2rem;
+}
 .icon-wrapper {
   display: flex;
   gap: 3rem;
@@ -1191,5 +1192,6 @@ font-weight: 500;
       width: 50px;
     height: 50px;
     
+
 
   }
