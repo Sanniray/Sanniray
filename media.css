@@ -201,7 +201,7 @@
     /* other styles */
   }
 
-  .copyright{
+  .copyright p{
     position: relative;
     margin: 0;
   }
@@ -240,3 +240,4 @@
     /* other styles */
   }
 }
+
