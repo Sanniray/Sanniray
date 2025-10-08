@@ -202,8 +202,7 @@
   }
 
   .copyright p{
-    position: relative;
-    margin: 0;
+margin-left: 40px
   }
 .custom-fade-up.visible{
   font-size: 15px;
@@ -240,4 +239,5 @@
     /* other styles */
   }
 }
+
 
